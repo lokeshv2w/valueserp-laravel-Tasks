@@ -43,7 +43,7 @@ git clone https://github.com/lokeshv2w/valueserp-laravel-Tasks.git
 ### 2️⃣ Navigate to the project directory
 
 ```bash
-cd project-folder
+cd valueserp-laravel-Tasks
 ```
  
 ### 3️⃣ Install dependencies
