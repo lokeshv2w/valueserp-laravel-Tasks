@@ -38,7 +38,7 @@ It allows users to search multiple keywords, view aggregated search results, and
 ### 1️⃣ Clone the repository  
 
 ```bash
-git clone https://github.com/lokeshv2w/laravel-valueserp-search.git
+git clone https://github.com/lokeshv2w/valueserp-laravel-Tasks.git
 ```
 ### 2️⃣ Navigate to the project directory
 
@@ -118,5 +118,5 @@ PHP, Laravel, REST API, MySQL
 ### 👉 GitHub Repository:
 
 ```bash
-https://github.com/lokeshv2w/valueserp-laravel-Task.git
+https://github.com/lokeshv2w/valueserp-laravel-Tasks
 ```
