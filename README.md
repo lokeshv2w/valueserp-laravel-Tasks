@@ -70,13 +70,18 @@ VALUESERP_API_KEY=your_api_key_here
 php artisan key:generate
 ```
 
-### 7️⃣ Run the application
+### 7️⃣ Run Migrations
+
+```bash
+php artisan migrate
+```
+### 8️⃣ Start the Development Server
 
 ```bash
 php artisan serve
 ```
 
-### 8️⃣ Open in browser
+### 9️⃣ Open in browser
 
 ```bash
 http://127.0.0.1:8000
