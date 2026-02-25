@@ -111,12 +111,6 @@ PHP, Laravel, REST API, MySQL
 - ⚠️ CSV export is disabled if no data is available
 ---
 
-## 🔹 Notes 
-
-- Search results are based on Google SERP data provided by ValueSERP
-- Snippets may be truncated as per search engine behavior
-- CSV export contains raw data only (no styling, as CSV does not support formatting)
----
 
 ## 🔹 Repository Link 
 
